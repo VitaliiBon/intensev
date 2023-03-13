@@ -206,7 +206,7 @@ body { background: #928f8f }
   flex-wrap: wrap;
   /* flex-direction: row; */
   /* background-color: #333; */
-  background-image: url(images/darcsmog.jpeg);
+  background-image: url(./images/darcsmog.jpeg);
   background-size: cover;
   
   margin-top: 3.3rem;
