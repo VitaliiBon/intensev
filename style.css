@@ -310,6 +310,10 @@ margin-bottom: 60px;
   color: white;
   margin: 3px;
 }
+
+.main-ul{
+  list-style-type: none;
+}
 .main p {
   margin: 5px;
 }
@@ -471,7 +475,7 @@ margin-bottom: 60px;
 
 
  .Walkthrough-structure{
-  background-color: rgb(248, 167, 235) ;
+  background-color: rgb(250, 92, 166) ;
  }
  #Walkthrough-structure-span {
   font-size: 40px;
