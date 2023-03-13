@@ -206,7 +206,7 @@ body { background: #928f8f }
   flex-wrap: wrap;
   /* flex-direction: row; */
   /* background-color: #333; */
-  background-image: url(/images/darcsmog.jpeg);
+  background-image: url(images/darcsmog.jpeg);
   background-size: cover;
   
   margin-top: 3.3rem;
@@ -301,7 +301,7 @@ margin-bottom: 60px;
 .main2{
   display: flex;
   flex-direction: column;
-  background-image: url(/images/darcsmog.jpeg);
+  background-image: url(images/darcsmog.jpeg);
   background-size: cover;
   /* background-color: rgb(226, 220, 226); */
   color: white;
@@ -318,7 +318,7 @@ margin-bottom: 60px;
   /* display: flex; */
   /* flex-wrap: wrap; */
 
-  background-image: url(/images/дым68746_colour-smoke-png.png) ;
+  background-image: url(images/дым68746_colour-smoke-png.png) ;
   background-size: cover;
 }
 .reviews0 {
@@ -496,7 +496,7 @@ margin-bottom: 60px;
  .price {
   /* display: flex; */
   /* flex-wrap: wrap; */
-  background-image: url(/images/дым68746_colour-smoke-png.png) ;
+  background-image: url(images/дым68746_colour-smoke-png.png) ;
   background-size: cover;
   /* border: #FF9900 1px solid; */
   
